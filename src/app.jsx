@@ -18,3 +18,5 @@ export default function App() {
     </Router>
   );
 }
+
+<Route path="/random" element={<RandomProverb />} />
