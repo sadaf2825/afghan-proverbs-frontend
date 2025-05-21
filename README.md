@@ -51,10 +51,10 @@ Homepage
 ![Add Proverb](./afghan-proverbs-frontend/addproverb.png)
 
 Random proverb
-![Search Feature](./afghan-proverbs-frontend/randomproverb.png) 
+![Random Proverb](./afghan-proverbs-frontend/randomproverb.png) 
 
 Searching 
-![Search Feature](./afghan-proverbs-frontend/searchingproverb.png)
+![Searching Feature](./afghan-proverbs-frontend/searchingproverb.png)
 
 
 
