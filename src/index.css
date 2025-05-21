@@ -37,7 +37,7 @@ body {
   align-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background-image: linear-gradient(to bottom right, #0b1d26, #1a3d4e); /* Rich gradient */
+  background-image: linear-gradient(to bottom right, #0b1d26, #1a3d4e); 
   color: #fefefe;
 }
 
